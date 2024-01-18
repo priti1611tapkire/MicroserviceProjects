@@ -1,0 +1,20 @@
+package com.example.demo.controller;
+
+public class HomeController {
+
+	
+	@RequestMapping("/getAllData")
+	public List getAllData()
+	{
+		
+		Student s=new Student();
+		s.setRollno(1);
+		s.setName("Priti");
+		s.setAdd("Aurangabad");
+		
+		List al=new ArrayList();
+		al.add(s);
+		
+		return al;
+	}
+}

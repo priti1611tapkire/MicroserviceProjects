@@ -1,0 +1,26 @@
+package com.example.demo.controller;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.example.demo.model.Student;
+
+public class HomeController {
+
+	
+	@RequestMapping("/getAllData")
+	public List getAllData()
+	{
+		
+		Student s=new Student();
+		s.setId(1);
+		s.setName("Priti");
+		s.setAdd("Aurangabad");
+		
+		List al=new ArrayList();
+		al.add(s);
+		
+		return al;
+	}
+}

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\Spring-boot\MICROSERVICES\PROJECT LAYOUT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3234257835.index
+\JPAbyUsingCrudRepositorySecondCrud\src\main\java
+D:\Spring-boot\MICROSERVICES\PROJECT LAYOUT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\411376199.index
+\UIforCrud\src\main\java

@@ -1,0 +1,6 @@
+server.port=9091
+
+
+spring.application.name=appui
+eureka.client.service-url.defaultZone=http://localhost:8090/eureka
+

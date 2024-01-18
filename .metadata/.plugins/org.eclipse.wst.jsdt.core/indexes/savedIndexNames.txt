@@ -1,0 +1,15 @@
+INDEX VERSION 1.4+C:\Users\PRITI-PC\MICROSERVICES\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3792400565.index
+2173779227.index
+3922369651.index
+2088340670.index
+145508456.index
+1872714807.index
+156720722.index
+1116479424.index
+2832093901.index
+207065709.index
+412642465.index
+1178369916.index
+2819176040.index
+1015812044.index

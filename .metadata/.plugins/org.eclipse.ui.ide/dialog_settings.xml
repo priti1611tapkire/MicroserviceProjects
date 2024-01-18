@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\Spring-boot\MICROSERVICES\ServerZuulServer2nd"/>
+			<item value="D:\Spring-boot\MICROSERVICES\ServerZuulServer1st"/>
+			<item value="D:\Spring-boot\MICROSERVICES\ServerEurekaServer2"/>
+			<item value="D:\Spring-boot\MICROSERVICES\ServerEurekaClient-3"/>
+			<item value="D:\Spring-boot\MICROSERVICES\ServerEurekaClient-2"/>
+			<item value="D:\Spring-boot\MICROSERVICES\ServerEurekaClient-1"/>
+			<item value="D:\Spring-boot\MICROSERVICES\ServerCreation"/>
+			<item value="D:\Spring-boot\MICROSERVICES\ServerClient_2Application"/>
+			<item value="D:\Spring-boot\MICROSERVICES\PRODUCERUIDATABASE-1"/>
+			<item value="D:\Spring-boot\MICROSERVICES\CONSUMERUIDATABASE"/>
+			<item value="D:\Spring-boot\MICROSERVICES\ApplicationProduce2ndLoadBal"/>
+			<item value="D:\Spring-boot\MICROSERVICES\ApplicationProduce1st"/>
+			<item value="D:\Spring-boot\MICROSERVICES\ApplicationConsume2ndByLoadbal"/>
+			<item value="D:\Spring-boot\MICROSERVICES\ApplicationConsume1st"/>
+			<item value="D:\Spring-boot\MICROSERVICES\AppConsume_UI"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
